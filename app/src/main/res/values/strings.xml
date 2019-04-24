@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToolbarExample</string>
+    <string name="titulo_Fav">Favorito</string>
+    <string name="titulo_Backup">Backup</string>
+    <string name="titulo_btnIr">Button</string>
+    <string name="titulo_busqueda">Busqueda</string>
+    <string name="titulo_share">Compartir</string>
+</resources>
